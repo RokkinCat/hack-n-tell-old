@@ -83,9 +83,14 @@ small {
   border-color: #eb5043;
 }
 
-.btn.red:hover {
+.btn.red {
   background-color: #eb5043;
   color: #fff;
+}
+
+.btn.red:hover {
+  background-color: transparent;
+  color: #eb5043;
 }
 
 p {
