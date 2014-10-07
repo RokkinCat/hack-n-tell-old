@@ -93,6 +93,14 @@ small {
   color: #eb5043;
 }
 
+a {
+  color: #eb5043;
+}
+
+a:hover {
+  color: #B81D10;
+}
+
 p {
   text-align: justify;
   font-weight: 100;
