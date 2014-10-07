@@ -1,0 +1,20 @@
+.fold .hero h1 {
+  margin: 0px;
+  padding: 10px;
+}
+
+.fold .hero h3 {
+  margin: 0;
+  padding: 10px;
+}
+
+
+.fold .hero .logo {
+  height: 100px;
+  padding: 20px;
+}
+
+.spacer30 {
+  height: 30px;
+  display: block;
+}
