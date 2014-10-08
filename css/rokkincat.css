@@ -66,8 +66,7 @@ small {
   border: 3px solid black;
   text-decoration: none;
   background-color: transparent;
-  -webkit-transition: background-color 1s;
-  -webkit-transition: color 1s;
+  -webkit-transition: background-color 0.25s, color 0.25s;
   display: inline-block;
 }
 
