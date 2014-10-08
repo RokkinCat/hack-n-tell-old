@@ -206,3 +206,9 @@ p {
     font-weight: normal;
     font-style: normal;
 }
+
+hr {
+  width: 70%; 
+  margin-top: 30px; 
+  margin-bottom: 30px;
+}
