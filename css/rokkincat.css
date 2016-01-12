@@ -68,6 +68,7 @@ small {
   background-color: transparent;
   -webkit-transition: background-color 0.25s, color 0.25s;
   display: inline-block;
+  color: #000;
 }
 
 @media (max-width: 400px) {
@@ -214,4 +215,9 @@ hr {
 
 h4 {
   text-align: left;
+}
+
+.btn-fade:hover {
+  color: #FFF;
+  background-color: #222;
 }
